@@ -6,6 +6,7 @@ This replication package contains all scripts and datasets necessary to reproduc
 This project contains the following folders and files:
 - **/datasets**: This folder contains all the datasets (xlsx/csv) which are needed to run the scripts, as well as the final enhanced datasets
 - **/scripts**: This folder contains all the scripts needed to replicate our data enchancement/analysis
+- **Incivility_Analysis.xlsx**: This excel file contains different parts of our analysis. This includes frequency of each incivility across each gender pairing, and odds ratio analysis for both commenters and authors.
 
 ## Replication Steps
 The following walks you through how to replicate the data from our study. Scripts and data files are in their respective folders.
